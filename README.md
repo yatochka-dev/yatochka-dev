@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saaasuuukaae
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning React.js 
+- 👀 I’m a FullStack developer! 
+- 🌱 I’m currently learning Svelte(As additional framework)! 
 - 📫 How to reach me: my Discord id - 686207718822117463 and Email - philipchef13@gmail.com.
 
 [![Yatochka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatochka-dev)](https://github.com/anuraghazra/github-readme-stats)
