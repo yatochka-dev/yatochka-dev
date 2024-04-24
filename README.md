@@ -1,6 +1,6 @@
   - 👋 Hi, I’m @yatochka-dev
 - 👀 I’m a FullStack developer! 
-- 🌱 I’m currently learning Svelte(As additional framework)! 
+- 🌱 I’m currently a CS major
 - 📫 How to reach me: Discord - @yatochka_dev & Email - philipchef13@gmail.com
 
 [![Yatochka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatochka-dev)](https://github.com/anuraghazra/github-readme-stats)
