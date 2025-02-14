@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @yatochka-dev<br>- 👀 18 years old <br>- 🌱 Tel Aviv University Youth Group SP<br>- 🐒 Physics & Computer Science AP classes<br>Harvard Ventures-TECH Summer Program '25<br>
+- 👋 Hi, I’m @yatochka-dev<br>- 👀 18 years old <br>- 🌱 Tel Aviv University Youth Group SP<br>- 🐒 Physics & Computer Science AP classes<br>- 🎓Harvard Ventures-TECH Summer Program '25<br>
 
 
 ## 🌐 Socials:
